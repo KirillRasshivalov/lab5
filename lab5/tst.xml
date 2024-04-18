@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<collection>
+	<vehicles>
+		<vehicle key="1" id="4146" name="12" x="23" y="12.0" creationDate="2024-04-03T23:25:21.312371+03:00[Europe/Moscow]" enginePower="23.0" numberOfWheels="34" type="PLANE" fuelConsumption="12"/>
+		<vehicle key="2" id="37532" name="kirill" x =  "12" y="23.0" creationDate="2024-04-03T23:26:16.258801+03:00[Europe/Moscow]" enginePower="23.0" numberOfWheels="23" type="DRONE" fuelConsumption="12"/>
+		<vehicle key="3" id="23" name="Vadim" x="12" y="23.0" creatonDate="2024-04-03T23:25:21.312371+03:00[Europe/Moscow]"      enginePower="12.0" numberOfWheels="23" type="CHOPPER" fuelConsumption="3"/>
+		<vehicle key="2 3" id="12" name="Sergey" x="12" y="32.0" creationDate="2024-04-03T23:25:21.312371+03:00[Europe/Moscow]" enginePower="23.0" numberOfWheels="12" type="PLANE" fuelConsumption="3"/>
+		<vehicle key="1212121" id="28398" name="hbih" x="12" y="21212.121212" creationDate="2024-04-08T17:21:43.437212+03:00[Europe/Moscow]" enginePower="323.0" numberOfWheels="2323" type="PLANE" fuelConsumption="142"/>
+	</vehicles>
+</collection>
